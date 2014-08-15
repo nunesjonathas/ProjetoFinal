@@ -1,0 +1,20 @@
+%ELEMENTO
+'T3'
+
+%AREA
+ 24.000000
+
+%PERIMETRO
+ 32.000000
+
+%VARIAVEL
+'Modulo_de_elasticidade'
+6.297500e+09
+
+%VARIAVEL
+'Coeficiente_de_Poisson'
+0.252500
+
+%VARIAVEL
+'Centroide'
++11.500000	+14.500000
